@@ -4,6 +4,7 @@ height:2000px !important;
 background-color:rgba(240,240,220,.7);
 }
 
+
 @keyframes abc
 {
   0% { opacity:1;  }
@@ -112,39 +113,40 @@ li:nth-child(9)
     width: 400px;
     background-size: cover;
     background-attachment: fixed;
+    border-radius:50%;
 }
 .img2
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;
+ width:100px;border-radius:50%;
 }
 .img3
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;
+ width:100px;border-radius:50%;
 }
 .img4
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;
+ width:100px;border-radius:50%;
 }
 .img5
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;
+ width:100px;border-radius:50%;
 }
 .img6
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;
+ width:100px;border-radius:50%;
 }
 .img7
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;
+ width:100px;border-radius:50%;
 }
 .img8
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;
+ width:100px;border-radius:50%;
 }

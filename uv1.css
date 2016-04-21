@@ -19,61 +19,61 @@ position:fixed;
 }
 
 li:nth-child(1)
-{
+{color:#FF5722;
   font-size: 78px;
     right: 20%;
     top: 34%;
 }
 
 li:nth-child(2)
-{
+{color:#8BC34A;
   font-size: 39px;
     left: 45;
     top: 600;
 }
 
 li:nth-child(3)
-{
+{color:#FFEB3B;
   font-size: 300;
     right: 65%;
     top: 250;
 }
 
 li:nth-child(4)
-{
+{color:#00BCD4;
   font-size: 30;
     right: 40%;
     top: 260;
 }
 
 li:nth-child(5)
-{
+{color:#E91E63;
   font-size: 145px;
     left: 0;
 }
 
 li:nth-child(6)
-{
+{color:#FF9800;
   font-size: 100px;
     left: 40%;
     top: 0;
 }
 
 li:nth-child(7)
-{
+{color:#CDDC39;
   font-size: 200px;
     top: 478;
     right: 15;
 }
 
 li:nth-child(8)
-{
+{color:#9E9E9E;
   font-size: 190;
     right: 0;
 }
 
 li:nth-child(9)
-{
+{color:#64B5F6;
  font-size: 100px;
     right: 40%;
     top: 430;

@@ -180,14 +180,15 @@ left:-100;
   
 }
 .img8
-{background-image:url("http://i164.photobucket.com/albums/u8/hemi1hemi/ANIMALS/DOGS/DOG9-17.jpg");
- height:900px;
- width:900px;
- background-size: cover;
+{background-image: url("http://i164.photobucket.com/albums/u8/hemi1hemi/ANIMALS/DOGS/DOG9-17.jpg");
+    height: 900px;
+    width: 900px;
+    background-size: 100%;
     background-attachment: fixed;
-top:4100;
-left:75;
-
-position:relative !important;
+    top: 4100;
+    background-position: -32 -350;
+    left: 75;
+    background-repeat: no-repeat;
+    position: relative !important
   
 }

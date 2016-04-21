@@ -127,16 +127,17 @@ li:nth-child(9)
  width:300px;
  background-size: cover;
     background-attachment: fixed;
-    top:700;
+    top:950;
     left:-90;
 }
 .img3
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
- height:100px;
- width:100px;
+ height:450px;
+ width:450px;
  background-size: cover;
     background-attachment: fixed;
-    top:600;
+    top:900;
+    left:20%;
 }
 .img4
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");

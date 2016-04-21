@@ -40,14 +40,14 @@ li:nth-child(3)
 }
 
 li:nth-child(4)
-{color:#00BCD4;
+{color:#F8BBD0;
   font-size: 30;
     right: 40%;
     top: 260;
 }
 
 li:nth-child(5)
-{color:#E91E63;
+{color:#66BB6A;
   font-size: 145px;
     left: 0;
 }

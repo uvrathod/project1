@@ -5,7 +5,7 @@ background-color:rgba(240,240,220,.7);
 }
 
 .image>div
-{
+{z-index:2;
   border-radius:50%;
   position:absolute;
 }

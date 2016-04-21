@@ -1,6 +1,6 @@
 body
 {
-height=2000px;
+height=2000px !important; 
 background-color:rgba(240,240,220,.7);
 }
 

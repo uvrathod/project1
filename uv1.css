@@ -1,12 +1,12 @@
 body
 {
-
+height:2000px !important; 
 background-color:rgba(240,240,220,.7);
 }
 
 .uv
 {
-  height=2000px !important; 
+  position:fixed;
 
 }
 .uv>ul>li
@@ -16,7 +16,7 @@ background-color:rgba(240,240,220,.7);
   position:fixed;
 }
 .uv>ul
-{ position:fixed;
+{ 
   list-style-type:none;
 }
 

@@ -113,12 +113,13 @@ li:nth-child(9)
 
 .img1
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
-     height: 400px;
-    width: 400px;
+     height: 600px;
+    width: 600px;
     background-size: cover;
     background-attachment: fixed;
     border-radius:50%;
-    top:200;
+    top:400;
+    left:40%;
 }
 .img2
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");

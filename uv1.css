@@ -18,58 +18,61 @@ position:fixed;
 
 li:nth-child(1)
 {
-  font-size:100px;
-  right:0;
+  font-size: 78px;
+    right: 20%;
+    top: 34%;
 }
 
 li:nth-child(2)
 {
-  font-size:39px;
-  left:45;
-  top:90;
+  font-size: 39px;
+    left: 45;
+    top: 600;
 }
 
 li:nth-child(3)
 {
-  font-size:200px;
-  right:70;
-  top:67;
+  font-size: 300;
+    right: 65%;
+    top: 250;
 }
 
 li:nth-child(4)
 {
-  font-size:70px;
-  right:10;
-  top:120;
+  font-size: 30;
+    right: 40%;
+    top: 260;
 }
 
 li:nth-child(5)
 {
-  font-size:145px;
-  left:0;
+  font-size: 145px;
+    left: 0;
 }
 
 li:nth-child(6)
 {
-  font-size:100px;
-  left:65;
-  top:95;
+  font-size: 100px;
+    left: 40%;
+    top: 0;
 }
 
 li:nth-child(7)
 {
-  font-size:183px;
-  right:0;
+  font-size: 200px;
+    top: 478;
+    right: 15;
 }
 
 li:nth-child(8)
 {
-  font-size:100px;
-  right:0;
+  font-size: 190;
+    right: 0;
 }
 
 li:nth-child(9)
 {
-  font-size:100px;
-  right:0;
+ font-size: 100px;
+    right: 40%;
+    top: 430;
 }

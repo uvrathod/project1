@@ -170,14 +170,14 @@ top:2800;
   right:0;
 }
 .img7
-{background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
- height:650px;
- width:650px; 
- background-size: cover;
+{background-image: url("http://i1188.photobucket.com/albums/z412/MARIAMAGNOLIA1/MDFodHRwOi8vaTEyND…jYXJyeW1lL0JpbGRlci1NaXR0ZWwta2xlaW5lcmUlMjBiaWxkZXIlMjBzYW1tZWxib3gt.jpg");
+    height: 650px;
+    width: 650px;
+    background-position: -100;
+    background-size: cover;
     background-attachment: fixed;
-top:3300;
-left:-100;
-  
+    top: 3300;
+    left: -100;
 }
 .img8
 {background-image: url("http://i164.photobucket.com/albums/u8/hemi1hemi/ANIMALS/DOGS/DOG9-17.jpg");

@@ -122,35 +122,49 @@ li:nth-child(9)
 .img2
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;border-radius:50%;
+ width:100px;
+ background-size: cover;
+    background-attachment: fixed;
 }
 .img3
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;border-radius:50%;
+ width:100px;
+ background-size: cover;
+    background-attachment: fixed;
 }
 .img4
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;border-radius:50%;
+ width:100px;
+ background-size: cover;
+    background-attachment: fixed;
 }
 .img5
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;border-radius:50%;
+ width:100px;
+ background-size: cover;
+    background-attachment: fixed;
 }
 .img6
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;border-radius:50%;
+ width:100px;
+ background-size: cover;
+    background-attachment: fixed;
 }
 .img7
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;border-radius:50%;
+ width:100px; 
+ background-size: cover;
+    background-attachment: fixed;
 }
 .img8
 {background-image:url("http://i223.photobucket.com/albums/dd245/2ndsite/The%20Holding%20Pen/091dbe9f.jpg");
  height:100px;
- width:100px;border-radius:50%;
+ width:100px;
+ background-size: cover;
+    background-attachment: fixed;
 }

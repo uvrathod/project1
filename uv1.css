@@ -1,6 +1,6 @@
 body
 {
-height:4000px !important; 
+height:4500px !important; 
 background-color:rgba(240,240,220,.7);
 }
 
@@ -106,6 +106,7 @@ li:nth-child(9)
      animation:abc 3s infinite 0s ease-in-out;
 }
 .image{
+  height:4500px;
   z-index:2;
 }
 
@@ -184,7 +185,7 @@ left:-100;
  width:900px;
  background-size: cover;
     background-attachment: fixed;
-top:3900;
+top:4000;
 left:75;
 overflow:hidden;
 position:relative !important;

@@ -10,6 +10,7 @@ position:fixed;
 }
 .uv>ul>li
 {
+  font-weight:bold;
   font-family: 'Syncopate', sans-serif;
   position:fixed;
 }

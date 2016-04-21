@@ -35,6 +35,7 @@ li:nth-child(1)
     animation-name:abc;
     animation-duration:4s;
     animation-delay:2s;
+    animation-iteration-count:infinite;
 }
 
 li:nth-child(2)

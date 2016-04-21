@@ -40,9 +40,7 @@ li:nth-child(2)
   font-size: 39px;
     left: 45;
     top: 600;
-     animation-name:abc;
-    animation-duration:4s;
-    animation-delay:1s;
+     animation:abc 4s infinite 1s ease-in-out;
 }
 
 li:nth-child(3)
@@ -50,9 +48,7 @@ li:nth-child(3)
   font-size: 300;
     right: 65%;
     top: 250;
- animation-name:abc;
-    animation-duration:2s;
-    animation-delay:2s;
+ animation:abc 2s infinite 2s ease-in-out;
   
 }
 
@@ -62,18 +58,14 @@ li:nth-child(4)
     right: 40%;
     top: 260;
     
-     animation-name:abc;
-    animation-duration:4s;
-    animation-delay:no-delay;
+     animation:abc 4s infinite no-delay ease-in-out; 
 }
 
 li:nth-child(5)
 {color:#66BB6A;
   font-size: 145px;
     left: 0;
-     animation-name:abc;
-    animation-duration:3s;
-    animation-delay:2s;
+     animation:abc 3s infinite 2s ease-in-out;
 }
 
 li:nth-child(6)
@@ -81,9 +73,7 @@ li:nth-child(6)
   font-size: 100px;
     left: 40%;
     top: 0;
-     animation-name:abc;
-    animation-duration:2s;
-    animation-delay:1s;
+     animation:abc 2s infinite 1s ease-in-out;
 }
 
 li:nth-child(7)
@@ -91,9 +81,7 @@ li:nth-child(7)
   font-size: 200px;
     top: 478;
     right: 15;
- animation-name:abc;
-    animation-duration:2s;
-    animation-delay:no-delay;
+ animation :abc 2s infinite no-delay ease-in-out;
   
 }
 
@@ -101,9 +89,7 @@ li:nth-child(8)
 {color:#9E9E9E;
   font-size: 190;
     right: 0;
- animation-name:abc;
-    animation-duration:3s;
-    animation-delay:1s;
+ animation:abc 3s infinite 1s ease-in-out;
   
 }
 
@@ -112,7 +98,5 @@ li:nth-child(9)
  font-size: 100px;
     right: 40%;
     top: 430;
-     animation-name:abc;
-    animation-duration:3s;
-    animation-delay:no-delay;
+     animation:abc 3s infinite no-delay ease-in-out;
 }

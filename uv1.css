@@ -58,7 +58,7 @@ li:nth-child(4)
     right: 40%;
     top: 260;
     
-     animation:abc 4s infinite no-delay ease-in-out; 
+     animation:abc 4s infinite 0s ease-in-out; 
 }
 
 li:nth-child(5)
@@ -81,7 +81,7 @@ li:nth-child(7)
   font-size: 200px;
     top: 478;
     right: 15;
- animation :abc 2s infinite no-delay ease-in-out;
+ animation :abc 2s infinite 0s ease-in-out;
   
 }
 
@@ -98,5 +98,5 @@ li:nth-child(9)
  font-size: 100px;
     right: 40%;
     top: 430;
-     animation:abc 3s infinite no-delay ease-in-out;
+     animation:abc 3s infinite 0s ease-in-out;
 }

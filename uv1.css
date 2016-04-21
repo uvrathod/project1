@@ -4,7 +4,11 @@ height:2000px !important;
 background-color:rgba(240,240,220,.7);
 }
 
-
+.image>div
+{
+  border-radius:50%;
+  position:absolute;
+}
 @keyframes abc
 {
   0% { opacity:1;  }

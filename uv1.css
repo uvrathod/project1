@@ -1,6 +1,6 @@
 body
 {
-height:2000px !important; 
+height:4000px !important; 
 background-color:rgba(240,240,220,.7);
 }
 
@@ -136,7 +136,7 @@ li:nth-child(9)
  width:450px;
  background-size: cover;
     background-attachment: fixed;
-    top:900;
+    top:1198;
     left:20%;
 }
 .img4

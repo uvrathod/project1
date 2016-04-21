@@ -32,10 +32,7 @@ li:nth-child(1)
   font-size: 78px;
     right: 20%;
     top: 34%;
-    animation-name:abc;
-    animation-duration:4s;
-    animation-delay:2s;
-    animation-iteration-count:infinite;
+    animation:abc 4s infinite 2s ease-in-out;
 }
 
 li:nth-child(2)
